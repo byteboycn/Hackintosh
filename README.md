@@ -33,3 +33,7 @@ bois设置参考：[bois设置](https://apple.sqlsec.com/3-%E5%87%86%E5%A4%87%E5
 2. EFI未写入磁盘，且无法启动多系统
 3. 休眠问题
 
+## 0x05 参考资料
+
+1. [国光](https://apple.sqlsec.com/)
+2. [EFI-Z390-ROG-MAXIMUS-XI-HERO-WIFI-i7-8700K](https://github.com/ttdevs/EFI-Z390-ROG-MAXIMUS-XI-HERO-WIFI-i7-8700K)
